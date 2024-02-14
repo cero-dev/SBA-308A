@@ -1,5 +1,10 @@
 body{
-    background-color: white;
+    background-color: rgba(0, 0, 255, 0.527);
+    font-size: 40px;
+}
+
+h1 {
+    color: rgb(154, 195, 209);
 }
 
 #searchContainer{
@@ -22,9 +27,11 @@ body{
     button {
         width: 150px;
         height: 50px;
-        border: 5px solid black;
+        border: 5px solid rgb(154, 195, 209);
         background-color:rgba(250, 235, 215, 0);
         font-weight: 700;
+        font-size: 30px;
+        color: rgb(154, 195, 209);
     }
 
     button:hover {
