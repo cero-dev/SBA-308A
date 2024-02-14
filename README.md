@@ -7,7 +7,7 @@ Example Search Queries\
 \
 'isaac asimov'\
 'J. K. Rowling'\
-'Brandon Sanderson'\
+'Brandon Sanderson'
 
 The searching takes a couple of seconds to populate the page, it looks like nothing is happening but it's just loading the data from the API. Also it only searches on button click not the press of enter.
 
